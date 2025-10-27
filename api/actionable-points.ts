@@ -102,7 +102,6 @@ Rules:
 - Be specific and clear in descriptions
 - If no due date is mentioned, estimate based on context or leave empty
 - If no assignee is mentioned, leave empty
-- Extract 3-8 actionable points maximum
 - Focus on the most important and urgent items
 
 Output STRICT JSON only in this format (no prose outside JSON):
