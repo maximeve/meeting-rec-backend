@@ -4,7 +4,6 @@
   "description": "API endpoints for MeetingRec application",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
     "dev": "tsc --watch"
   },
   "dependencies": {
